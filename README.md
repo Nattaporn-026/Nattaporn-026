@@ -86,18 +86,7 @@
 
 ---
 
-## 📊 สถิติ GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=68219010026-design&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="สถิติ GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=68219010026-design&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="ภาษาที่ใช้ในโปรเจกต์" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=68219010026-design&theme=tokyonight&hide_border=true" width="70%" alt="สถิติการใช้งาน GitHub ต่อเนื่อง" />
-</p>
-
----
 
 ## 🎯 เป้าหมายในการพัฒนาตนเอง
 
