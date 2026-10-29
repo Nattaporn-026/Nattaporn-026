@@ -1,8 +1,6 @@
 # 👋 สวัสดีครับ ผมชื่อ ณัฐพรษ์ อุดมศรี
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sarabun&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=ยินดีต้อนรับสู่โปรไฟล์+GitHub+ของผม!;นักเรียนสายคอมพิวเตอร์;กำลังเรียนรู้การพัฒนาเว็บไซต์;เรียนรู้สิ่งใหม่+ๆ+อยู่เสมอ" alt="ข้อความแนะนำตัวแบบเคลื่อนไหว" />
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Nattaporn&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=นักเรียน%20%7C%20นักพัฒนาเว็บไซต์ฝึกหัด&descAlignY=60&descSize=16" width="100%" alt="ภาพปกโปรไฟล์" />
