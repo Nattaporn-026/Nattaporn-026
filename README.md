@@ -1,24 +1,157 @@
-# 👋 Hi, I'm Nattaporn Audornsri!
+# 👋 สวัสดีครับ ผมชื่อ ณัฐพรษ์ อุดมศรี
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Vocational+Student;Aspiring+Web+Developer;Always+Learning+Something+New!" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sarabun&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=ยินดีต้อนรับสู่โปรไฟล์+GitHub+ของผม!;นักเรียนสายคอมพิวเตอร์;กำลังเรียนรู้การพัฒนาเว็บไซต์;เรียนรู้สิ่งใหม่+ๆ+อยู่เสมอ" alt="ข้อความแนะนำตัวแบบเคลื่อนไหว" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Nattaporn&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Student%20%7C%20Web%20Developer%20in%20Progress&descAlignY=60&descSize=16" width="100%" alt="Profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Nattaporn&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=นักเรียน%20%7C%20นักพัฒนาเว็บไซต์ฝึกหัด&descAlignY=60&descSize=16" width="100%" alt="ภาพปกโปรไฟล์" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ เกี่ยวกับฉัน
 
-Hello! My name is **Nattaporn Audornsri**.
+สวัสดีครับ ผมชื่อ **ณัฐพรษ์ อุดมศรี** เป็นนักเรียนสายอาชีพจากประเทศไทย มีความสนใจด้านเทคโนโลยี การเขียนโปรแกรม และการพัฒนาเว็บไซต์ ชอบเรียนรู้สิ่งใหม่ ๆ และสร้างผลงานเพื่อพัฒนาทักษะของตัวเองอยู่เสมอ
 
-I am a vocational student from Thailand who is interested in technology, programming, and website development. I enjoy learning new skills and building projects to improve my coding abilities.
+- 🎓 **ระดับการศึกษา:** ประกาศนียบัตรวิชาชีพ (ปวช. 2/2)
+- 💻 **ความสนใจ:** การพัฒนาเว็บไซต์และการเขียนโปรแกรม
+- 🌱 **กำลังเรียนรู้:** HTML, CSS, PHP และ SQL
+- 🗄️ **ฐานข้อมูล:** MySQL
+- 🛠️ **เครื่องมือที่ใช้:** Visual Studio Code และ GitHub
+- 🎯 **เป้าหมาย:** พัฒนาตนเองให้เป็นนักพัฒนาที่มีความสามารถ
+- 🇹🇭 **ประเทศ:** ไทย
 
-- 🎓 **Education:** Vocational Certificate, Year 2 (ปวช. 2/2)
-- 💻 **Interests:** Web Development and Programming
-- 🌱 **Currently Learning:** HTML, CSS, PHP, and SQL
-- 🗄️ **Database:** MySQL
-- 🛠️ **Tools:** Visual Studio Code and GitHub
-- 🎯 **Goal:** To become a skilled developer and create useful
+---
+
+## 💻 ทักษะและเทคโนโลยี
+
+### ภาษาและเครื่องมือที่กำลังเรียนรู้
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,php" alt="HTML CSS และ PHP" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="MySQL Git GitHub และ Visual Studio Code" />
+</p>
+
+| เทคโนโลยี | การใช้งาน |
+|---|---|
+| HTML5 | สร้างโครงสร้างเว็บไซต์ |
+| CSS3 | ตกแต่งและออกแบบหน้าเว็บไซต์ |
+| PHP | พัฒนาเว็บไซต์ที่สามารถประมวลผลข้อมูลได้ |
+| MySQL | จัดเก็บและจัดการฐานข้อมูล |
+| SQL | เพิ่ม แก้ไข ลบ และค้นหาข้อมูล |
+| Git | บันทึกและติดตามการเปลี่ยนแปลงของโค้ด |
+| GitHub | จัดเก็บและเผยแพร่ผลงานเขียนโปรแกรม |
+| VS Code | โปรแกรมสำหรับเขียนและแก้ไขโค้ด |
+
+---
+
+## 🚀 ผลงานและโปรเจกต์
+
+### 🛒 1. ระบบจัดการสินค้า
+
+เว็บไซต์สำหรับจัดการสินค้าประเภทโน้ตบุ๊กและอุปกรณ์คอมพิวเตอร์
+
+**ความสามารถของระบบ**
+- เพิ่มข้อมูลสินค้า
+- แสดงรายการสินค้า
+- แก้ไขข้อมูลสินค้า
+- ลบข้อมูลสินค้า
+- อัปโหลดและแสดงรูปภาพสินค้า
+- เชื่อมต่อฐานข้อมูล MySQL
+
+**เทคโนโลยีที่ใช้:** PHP, MySQL, HTML และ CSS
+
+### 🌐 2. การพัฒนาเว็บไซต์
+
+ฝึกสร้างเว็บไซต์โดยเน้นการออกแบบหน้าตาและการใช้งานให้สะดวก
+
+**สิ่งที่ได้ฝึกฝน**
+- การสร้างเมนูนำทาง
+- การสร้างแบบฟอร์มรับข้อมูล
+- การตกแต่งเว็บไซต์ด้วย CSS
+- การจัดวางองค์ประกอบหน้าเว็บ
+- การออกแบบเว็บไซต์ให้รองรับหน้าจอที่แตกต่างกัน
+
+**เทคโนโลยีที่ใช้:** HTML และ CSS
+
+### 📚 3. ผลงานจากการฝึกเขียนโปรแกรม
+
+โปรเจกต์ขนาดเล็กที่จัดทำขึ้นเพื่อฝึกฝนทักษะและทำความเข้าใจการเขียนโปรแกรมให้ดียิ่งขึ้น
+
+**เทคโนโลยีที่ใช้:** HTML, CSS, PHP และ SQL
+
+---
+
+## 📊 สถิติ GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=68219010026-design&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="สถิติ GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=68219010026-design&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="ภาษาที่ใช้ในโปรเจกต์" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=68219010026-design&theme=tokyonight&hide_border=true" width="70%" alt="สถิติการใช้งาน GitHub ต่อเนื่อง" />
+</p>
+
+---
+
+## 🎯 เป้าหมายในการพัฒนาตนเอง
+
+- [x] เริ่มเรียนรู้การพัฒนาเว็บไซต์
+- [x] ฝึกสร้างหน้าเว็บด้วย HTML และ CSS
+- [x] เรียนรู้พื้นฐาน PHP และ MySQL
+- [ ] พัฒนาทักษะการออกแบบเว็บไซต์ให้รองรับทุกหน้าจอ
+- [ ] เรียนรู้ภาษา JavaScript
+- [ ] สร้างเว็บไซต์ที่มีความสามารถมากขึ้น
+- [ ] สร้างเว็บไซต์รวบรวมผลงานส่วนตัว
+
+---
+
+## 🌱 สิ่งที่กำลังเรียนรู้
+
+ผมกำลังพัฒนาความรู้และทักษะในด้านต่าง ๆ ดังนี้
+
+- พื้นฐานการพัฒนาเว็บไซต์
+- การเชื่อมต่อ PHP กับฐานข้อมูล
+- การเขียนคำสั่ง SQL และการออกแบบฐานข้อมูล
+- การออกแบบส่วนติดต่อผู้ใช้ (UI/UX)
+- การใช้งาน Git และ GitHub
+- การเขียนโค้ดให้เป็นระเบียบและง่ายต่อการดูแลรักษา
+
+---
+
+## 📫 ติดต่อและติดตามผลงาน
+
+<p align="center">
+  <a href="https://github.com/68219010026-design">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/68219010026-design">เยี่ยมชมโปรไฟล์ GitHub ของผม</a>
+</p>
+
+---
+
+## 💡 คำคมที่ชื่นชอบ
+
+> วิธีเรียนรู้การเขียนโปรแกรมที่ดีที่สุด คือการลงมือสร้างผลงานด้วยตัวเอง
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=100&section=footer" width="100%" alt="ภาพตกแต่งส่วนท้าย" />
+</p>
+
+<p align="center">
+  ⭐ ขอบคุณที่เข้ามาเยี่ยมชมโปรไฟล์ GitHub ของผมครับ ⭐
+</p>
+
+<p align="center">
+  <i>เรียนรู้อยู่เสมอ ลงมือเขียนโค้ด และพัฒนาตัวเองในทุกวัน</i>
+</p>
