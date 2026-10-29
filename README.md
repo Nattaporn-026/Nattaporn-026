@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Nattaporn&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=นักเรียน%20%7C%20นักพัฒนาเว็บไซต์ฝึกหัด&descAlignY=60&descSize=16" width="100%" alt="ภาพปกโปรไฟล์" />
+  type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Nattaporn&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=นักเรียน%20%7C%20นักพัฒนาเว็บไซต์ฝึกหัด&descAlignY=60&descSize=16" width="100%" alt="ภาพปกโปรไฟล์" />
 </p>
 
 ---
